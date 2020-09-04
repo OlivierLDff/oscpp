@@ -25,8 +25,6 @@
 #ifndef OSCPP_HOST_HPP_INCLUDED
 #define OSCPP_HOST_HPP_INCLUDED
 
-#include <oscpp/detail/endian.hpp>
-
 #include <cstdint>
 #include <stdexcept>
 
